@@ -10,4 +10,3 @@ def main(n):
     """
     x=pow((n+2)/3,2)
     return x
-print(main(4))
